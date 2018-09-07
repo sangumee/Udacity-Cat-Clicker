@@ -1,0 +1,22 @@
+body {
+    background-image: url('../img/background_image.jpg');
+}
+
+.container {
+    margin: auto;
+    width: 50%;
+    padding-top: 80px;
+    
+}
+
+img {
+    border-radius: 25px;
+    width: 100%;
+}
+
+span {
+    margin: auto;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+}
